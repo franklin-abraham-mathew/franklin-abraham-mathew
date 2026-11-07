@@ -24,7 +24,8 @@
 - Explore Cloud Computing and AI
 
 ### Connect with Me
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn:
+https://www.linkedin.com/in/franklin-abraham-mathew-a50982449
 
 ---
 *Learning, building and improving one step at a time.*
